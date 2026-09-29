@@ -1,0 +1,6 @@
+{
+  "name": "StoreRate - Store Rating App",
+  "description": "Production-ready store rating web application with role-based access for Admins, Store Owners, and Users, powered by PostgreSQL, Express, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
